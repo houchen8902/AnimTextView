@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="AnimTextView">
+        <attr name="animValue" format="integer" />
+        <attr name="duration" format="integer" />
+        <attr name="showAnim" format="boolean" />
+    </declare-styleable>
+
+</resources>
